@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c97218f-204b-4515-b121-b8936aaa6e3b",
+    "Name": "Leads_FormPage",
+    "ModifiedOnUtc": "\/Date(1763115710000)\/",
+    "Parent": {
+      "UId": "925f6863-2ffd-49b9-b3b8-f12232583dfe",
+      "Name": "Leads_FormPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Leads form page",
+    "DependsOn": []
+  }
+}

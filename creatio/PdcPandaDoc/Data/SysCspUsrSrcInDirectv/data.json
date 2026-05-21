@@ -1,0 +1,904 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "061533ad-dbb6-4844-89c2-41e7168734d6"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "08972209-6019-49b8-af8d-1d04c10c498e"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "958230c5-0435-4dc0-93ee-e3ae14b3664c",
+          "DisplayValue": "font-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "09db7fb4-7dd2-4087-96dc-ebf9c2775c13"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "d5d96915-4b08-46ca-9a79-fef4312e237d",
+          "DisplayValue": "https://s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "14b7569e-c7ee-431b-8474-a2e322f41d32"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "4384efd9-26f3-4a8d-ae6d-7074df259326",
+          "DisplayValue": "prefetch-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "154dbf08-aad4-4d48-ab74-7f69c02f0b08"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1720042a-dd62-4138-b6b0-aa3c162250a3"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "f726597e-067e-4bef-b5fc-520d1a66ce81",
+          "DisplayValue": "img-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1baab220-ce7f-445d-bf83-d7b4aad86691"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "f726597e-067e-4bef-b5fc-520d1a66ce81",
+          "DisplayValue": "img-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "22b90ce0-6005-41d6-bcec-cea7515a0c9b"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "a385b5b6-754d-4472-a752-8bbff333ac1a",
+          "DisplayValue": "frame-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2c6f8871-f886-494d-8b38-dbcf335bd85f"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2f61c684-989c-4233-9279-104b83d142cc"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "d5d96915-4b08-46ca-9a79-fef4312e237d",
+          "DisplayValue": "https://s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "7c861040-10d0-439a-b16c-c10e9de48968",
+          "DisplayValue": "script-src-attr"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3284b941-d4bc-43a9-ad95-f30a642def4f"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "f726597e-067e-4bef-b5fc-520d1a66ce81",
+          "DisplayValue": "img-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "39b2b821-2ee8-4e24-99ff-206c49110ab9"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "a385b5b6-754d-4472-a752-8bbff333ac1a",
+          "DisplayValue": "frame-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "45a53df9-cc56-49d9-a170-09dd4cee9890"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4b64b370-f5af-4085-8359-45b515784a28"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "50aa4b5c-dce8-4103-9c31-0668f8dc0546",
+          "DisplayValue": "script-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "555203cd-f777-4547-b1b5-c2252affd2c6"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "a6779ce4-4df0-4f32-94e8-f32fa30a05b7",
+          "DisplayValue": "https://app.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "a385b5b6-754d-4472-a752-8bbff333ac1a",
+          "DisplayValue": "frame-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5686c871-e6d5-4488-bf55-1082d11ac80d"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "525655db-a0ff-4fb9-8db2-e4eb78c55da3",
+          "DisplayValue": "https://*.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "58841945-b801-42e2-a14d-7150b6fafa9e"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "57e2c321-807d-419c-80c1-a2636544c604",
+          "DisplayValue": "worker-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "59f01096-8f49-460f-86ee-0575b6cdf398"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "958230c5-0435-4dc0-93ee-e3ae14b3664c",
+          "DisplayValue": "font-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5eea94a9-29b4-43d4-bbf7-f42d80caf20c"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "61c4f601-d74a-4b0f-bc08-cf2fbecc0e90"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "d5d96915-4b08-46ca-9a79-fef4312e237d",
+          "DisplayValue": "https://s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "f726597e-067e-4bef-b5fc-520d1a66ce81",
+          "DisplayValue": "img-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6307e1fa-1472-4110-b0fc-2981e56461ba"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "d5d96915-4b08-46ca-9a79-fef4312e237d",
+          "DisplayValue": "https://s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "50aa4b5c-dce8-4103-9c31-0668f8dc0546",
+          "DisplayValue": "script-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6322f7d8-ae30-48f0-9c4c-91616846c81d"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "a385b5b6-754d-4472-a752-8bbff333ac1a",
+          "DisplayValue": "frame-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6a01c3e5-0938-4489-a76c-cda36449fddd"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "4384efd9-26f3-4a8d-ae6d-7074df259326",
+          "DisplayValue": "prefetch-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6c21d968-51bf-4af1-82c7-8b73975df0f2"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "4384efd9-26f3-4a8d-ae6d-7074df259326",
+          "DisplayValue": "prefetch-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "75029b91-2be0-40bf-999c-26dc9a3f73d1"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "351d4c08-073f-4c2a-8566-0d803cdc6e1e",
+          "DisplayValue": "style-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "78ea1dc8-4ac6-4552-8267-71e16adda072"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "f726597e-067e-4bef-b5fc-520d1a66ce81",
+          "DisplayValue": "img-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7a30462e-1b85-4a98-b692-2ce713193350"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "57e2c321-807d-419c-80c1-a2636544c604",
+          "DisplayValue": "worker-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7ca0ed7d-0021-48fa-aa8d-ecf531d2d432"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "351d4c08-073f-4c2a-8566-0d803cdc6e1e",
+          "DisplayValue": "style-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7e39b933-615a-450a-affc-11ad36ebf802"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "846bf001-8270-41d3-b0da-0aa94dcbf4f3"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "d532983a-67d0-49f4-b02b-d7180e749c3b",
+          "DisplayValue": "https://code.jquery.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "84f97b1b-03d5-464b-83a2-c73c920113ff"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "87763a33-85a6-4bfd-b72f-78f1be95dc00"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "7c861040-10d0-439a-b16c-c10e9de48968",
+          "DisplayValue": "script-src-attr"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "880ef4b8-8fa3-4ce7-a2f7-18c24d24fc80"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "784e8696-bcb4-4ae1-ae9d-3693df737b2d",
+          "DisplayValue": "https://api.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8e493439-3288-4504-beef-a8ed90a9d812"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "a385b5b6-754d-4472-a752-8bbff333ac1a",
+          "DisplayValue": "frame-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9c321968-be51-4416-ab2a-b0b0a176871b"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "50aa4b5c-dce8-4103-9c31-0668f8dc0546",
+          "DisplayValue": "script-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a19f2ecf-5b5b-4413-935b-9646d71ca232"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a6140e14-4917-44bf-9338-af9a729ec475"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "525655db-a0ff-4fb9-8db2-e4eb78c55da3",
+          "DisplayValue": "https://*.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "50aa4b5c-dce8-4103-9c31-0668f8dc0546",
+          "DisplayValue": "script-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b323c02e-0831-4070-b190-9eae5c950620"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "a385b5b6-754d-4472-a752-8bbff333ac1a",
+          "DisplayValue": "frame-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b8e723c5-4627-4dee-a92c-119c76a90afe"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ba7b4c6e-fd69-4770-9635-9f28be808dd4"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bd0b03c1-af69-4bb0-8f9b-bbb91c0597f9"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "d5d96915-4b08-46ca-9a79-fef4312e237d",
+          "DisplayValue": "https://s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "22fefbee-f12e-4db2-9978-8a3f5ff262fa",
+          "DisplayValue": "script-src-elem"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c45de1fe-2107-4f84-98b9-d0beb1b96538"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "958230c5-0435-4dc0-93ee-e3ae14b3664c",
+          "DisplayValue": "font-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c6de3ee9-ba1d-41a5-992d-3a5649309765"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5",
+          "DisplayValue": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "57e2c321-807d-419c-80c1-a2636544c604",
+          "DisplayValue": "worker-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cd486d03-46dd-4c5f-988d-40bfe3a99047"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "525655db-a0ff-4fb9-8db2-e4eb78c55da3",
+          "DisplayValue": "https://*.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "cb40db30-6c84-497b-967c-797b2a7cb9b6",
+          "DisplayValue": "connect-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d08641e5-92c7-4d37-bf32-8f18fa06eb12"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "525655db-a0ff-4fb9-8db2-e4eb78c55da3",
+          "DisplayValue": "https://*.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "f726597e-067e-4bef-b5fc-520d1a66ce81",
+          "DisplayValue": "img-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d1f3f3fe-b26c-437b-8ab2-f88f580a02f1"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "7c861040-10d0-439a-b16c-c10e9de48968",
+          "DisplayValue": "script-src-attr"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d35c0e9e-237a-4977-9f9a-f9b9d75d4170"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d",
+          "DisplayValue": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "7c861040-10d0-439a-b16c-c10e9de48968",
+          "DisplayValue": "script-src-attr"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e21c2523-5688-4a1e-b708-a44db98cadda"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "351d4c08-073f-4c2a-8566-0d803cdc6e1e",
+          "DisplayValue": "style-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e2a40b19-3849-4695-bb3a-99d1e724b45e"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946",
+          "DisplayValue": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "50aa4b5c-dce8-4103-9c31-0668f8dc0546",
+          "DisplayValue": "script-src"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e36f2594-bb64-4712-9435-cac93735d52f"
+        },
+        {
+          "SchemaColumnUId": "6450bb25-1f34-aa31-0a4d-a3312837e2eb",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782",
+          "DisplayValue": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "c7328a14-e19f-b711-1b16-8b6776f7e3d1",
+          "Value": "50aa4b5c-dce8-4103-9c31-0668f8dc0546",
+          "DisplayValue": "script-src"
+        }
+      ]
+    }
+  ]
+}

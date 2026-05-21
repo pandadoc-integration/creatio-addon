@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/PdcPandaDoc/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/PdcPandaDoc/Data/**" />
+		<Compile Remove="$(PkgPath)/PdcPandaDoc/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/PdcPandaDoc/Schemas\**" />
+		<Compile Remove="$(PkgPath)/PdcPandaDoc/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcPandaDoc/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcPandaDoc/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcPandaDoc/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcPandaDoc/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcPandaDoc/Resources/**" />
+		<None Remove="$(PkgPath)/PdcPandaDoc/Assemblies/**" />
+		<None Remove="$(PkgPath)/PdcPandaDoc/Data/**" />
+		<None Remove="$(PkgPath)/PdcPandaDoc/SqlScripts/**" />
+		<None Remove="$(PkgPath)/PdcPandaDoc/Schemas/**" />
+		<None Remove="$(PkgPath)/PdcPandaDoc/Resources/**" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="zh-TW">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="新增" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="新增" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="新增" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="潛在價值" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="輸入該潛在客戶可能帶來的潛在收入" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="描述客戶的業務需求" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="描述失去領先優勢的原因" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="建立於" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="建立電子郵件" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="建立任務" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="預計截止日期" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="輸入預計銷售截止日期" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="已傳送電子郵件" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="已傳送電子郵件" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="歷史" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="可能性" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="損失原因" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="由商機引導" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Name" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="階段" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="動作" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="後續步驟" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="後續步驟" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="客戶的機會" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="合約總價值" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="預計截止日期" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="動作" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="機會規劃" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="外撥電話" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="外撥電話" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="預測機率" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="分數表示將潛在客戶轉換為相關商機的機率。該值是使用 ML 模型計算的" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="加工" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="新的" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="產品" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="資料匯入" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="動作" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="記下可以提供給客戶的產品" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="銷售量" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="類似線索" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Name" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="階段" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="動作" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="舞台歷史" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="匯出到 Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="階段" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="重新整理" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="搜尋" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="動作" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="時間軸" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="時間軸" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Додати новий" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Потенційне значення" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Введіть потенційний дохід, який цей лід може принести" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Опишіть потребу бізнесу клієнта" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Пояснити оцінку ймовірності" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Опишіть причину, через яку лід було втрачено" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Дата створення" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Створити email" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Створити завдання" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Очікувана дата закриття" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Введіть очікувану дату закриття продажу" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Листи надіслані" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Листи надіслані" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Історія" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Імовірність" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Причина програшу" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Ліди по клієнту" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Назва" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Стадія" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Заплановані активності" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Заплановані активності" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Додати" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Продажі по клієнту" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Загальна вартість договору" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Очікувана дата закриття" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Планування угоди" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Вихідні дзвінки" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Вихідні дзвінки" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Предиктивна ймовірність" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="Оцінка вказує на ймовірність перетворення Ліда в пов'язаний продаж. Значення обчислюється за допомогою моделі машинного навчання (ML)." />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Обробка" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Новий" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Продукти" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Імпорт даних" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Зверніть увагу на продукти, які можуть бути запропоновані клієнту" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Продажі" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Схожі ліди" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Назва" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Стадія" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Історія стадії" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Експорт в Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Стадія" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Оновити" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Пошук" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Дії" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Хронологія" />
+		</Items>
+	</Group>
+</Resources>

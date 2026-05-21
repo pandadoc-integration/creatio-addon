@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Nieuwe toevoegen" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Potentieel bedrag." />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Voer de potentiële omzet in die deze lead kan genereren." />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Beschrijf de zakelijke behoefte van de klant." />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Leg de waarschijnlijkheidsscore uit" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Beschrijf de reden waarom de lead is verloren." />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Aangemaakt op" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="E-mail aanmaken." />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Taak aanmaken." />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Verwachte sluitingsdatum" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Voer de verwachte sluitingsdatum van de verkoop in." />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="E-mails verzonden" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="E-mails verzonden" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Historie" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Waarschijnlijkheid" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Reden van verlies." />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Nieuw" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Leads per klant." />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Exporteren naar Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Data importeren" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Naam" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Fase" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Verversen" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Zoeken" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Acties" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Volgende stappen" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Volgende stappen" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Nieuw" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Kansen per klant" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Exporteren naar Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Data importeren" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Totaal contractwaarde" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Verwachte sluitingsdatum" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Verversen" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Zoeken" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Acties" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Kansplanning" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Uitgaande oproepen" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Uitgaande oproepen" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Kansberekening" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="De score geeft de kans aan om de Lead om te zetten in een bijbehorende verkoopkans. De waarde wordt berekend met het ML-model" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Verwerken" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Nieuw" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Producten" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Exporteren naar Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Data importeren" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Verversen" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Zoeken" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Acties" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Merk de producten op die aan de klant kunnen worden aangeboden" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Verkoop" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Vergelijkbare leads" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Exporteren naar Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Naam" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Fase" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Verversen" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Zoeken" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Acties" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Fasegeschiedenis" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Exporteren naar Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Fase" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Verversen" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Zoeken" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Acties" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Tijdlijn" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Tijdlijn" />
+		</Items>
+	</Group>
+</Resources>

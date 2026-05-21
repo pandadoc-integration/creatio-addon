@@ -1,0 +1,220 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1b245499-c5f6-4daa-8a48-0f6d478bd946"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://pd-js-sdk.s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "525655db-a0ff-4fb9-8db2-e4eb78c55da3"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://*.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "784e8696-bcb4-4ae1-ae9d-3693df737b2d"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://api.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8f7b5e61-3406-4dac-afda-ad8601cc038d"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://*.pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9b79e8e7-e896-4977-896f-8be0c5cfa782"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://pandadoc-static.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a6779ce4-4df0-4f32-94e8-f32fa30a05b7"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://app.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c26038d2-cfd0-49f0-a5dd-9e5060a927a5"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://*.pandadoc.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d532983a-67d0-49f4-b02b-d7180e749c3b"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://code.jquery.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d5d96915-4b08-46ca-9a79-fef4312e237d"
+        },
+        {
+          "SchemaColumnUId": "5d3a4b62-1fe1-91d2-9d12-ea6fed370cea",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "7a333c2d-03b1-3969-cb9d-8e9218e71c7b",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "8ce3c720-3800-3340-ab7f-3709bc15adfe",
+          "Value": "https://s3.amazonaws.com"
+        },
+        {
+          "SchemaColumnUId": "ef07c4d0-0753-5986-a748-951a6c1ee937",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ja-JP">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="新規追加" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="見込み金額" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="このリードがもたらす見込み収益を入力します" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="顧客のビジネスニーズを説明" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="リードがロストした理由を説明" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="作成日時" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="メールを作成" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="タスクを作成" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="クローズ予定日" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="営業のクローズ予定日を入力" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="メール送信件数" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="メールが送信されました" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="履歴" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="確度" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="ロスト理由" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="顧客別のリード" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Excel出力" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="データのインポート" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="名前" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="ステージ" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="更新" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="次のステップ" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="次のステップ" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="顧客別の案件" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="エクセル出力" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="データのインポート" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="合計契約金額" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="クローズ予定日" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="更新" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="案件計画" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="テレアポ件数" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="テレアポ件数" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="案件化率" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="スコアはリードを関連する営業案件に変換する確度を示します。値はMLモデルで計算されます。" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="プロセス" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="新規" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="製品" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Excel出力" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="データのインポート" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="更新" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="顧客に提供できる製品をメモする" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="セールス" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="類似のリード" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Excelにエクスポート" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="名前" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="ステージ" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="再読み込み" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="ステージ履歴" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Excelにエクスポート" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="ステージ" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="再読み込み" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="検索" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="アクション" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="タイムライン" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="タイムライン" />
+		</Items>
+	</Group>
+</Resources>

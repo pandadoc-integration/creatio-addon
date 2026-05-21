@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "907770b1-d6f5-44f7-a6be-1310aa910a70",
+    "Name": "Opportunities_FormPage",
+    "ModifiedOnUtc": "\/Date(1759772245000)\/",
+    "Parent": {
+      "UId": "d205e43b-228c-4725-aed2-d1c9dbef650e",
+      "Name": "Opportunities_FormPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Opportunities form page",
+    "DependsOn": []
+  }
+}

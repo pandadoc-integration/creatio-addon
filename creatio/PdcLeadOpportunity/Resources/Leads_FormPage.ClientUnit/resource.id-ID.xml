@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="id-ID">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Tambah baru" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Tambah baru" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Tambah baru" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Nilai potensial" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Masukkan potensi pendapatan yang dapat dihasilkan oleh prospek ini" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Jelaskan kebutuhan bisnis pelanggan" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Jelaskan alasan mengapa lead tersebut hilang" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Dibuat pada" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Buat email" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Buat tugas" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Tanggal penutupan yang diharapkan" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Masukkan tanggal penutupan penjualan yang diharapkan" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Email terkirim" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Email terkirim" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Riwayat" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Probability" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Alasan kerugian" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Baru" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Lead oleh pelanggan" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Ekspor ke Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Impor data" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Nama" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Tahap" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Cari" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Aksi" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Langkah selanjutnya" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Langkah selanjutnya" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Baru" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Peluang oleh pelanggan" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Ekspor ke Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Impor data" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Total nilai kontrak" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Tanggal penutupan yang diharapkan" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Cari" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Aksi" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Perencanaan kesempatan" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Panggilan keluar" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Panggilan keluar" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Probabilitas prediktif" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="Nilai tersebut menunjukkan probabilitas untuk mengubah Prospek menjadi Peluang terkait. Nilai dihitung dengan model ML" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Memproses" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Baru" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Produk" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Ekspor ke Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Impor data" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Memuat ulang" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Cari" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Aksi" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Catat produk yang dapat ditawarkan kepada pelanggan" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Penjualan" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Lead yg sama" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Ekspor ke Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Nama" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Tahap" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Memuat ulang" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Cari" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Aksi" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Riwayat panggung" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Ekspor ke Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Tahap" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Memuat ulang" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Cari" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Aksi" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+		</Items>
+	</Group>
+</Resources>

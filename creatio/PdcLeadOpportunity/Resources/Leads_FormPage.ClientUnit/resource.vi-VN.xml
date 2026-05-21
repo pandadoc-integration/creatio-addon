@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Thêm mới" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Thêm mới" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Thêm mới" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Potential value" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Enter the potential revenue that this lead could bring" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Describe the customer's business need" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Describe the reason why the lead was lost" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Tạo" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Create an email" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Create a task" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Expected close date" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Enter the expected closing date of the sale" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Emails sent" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Emails sent" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Lịch sử" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Probability" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Loss reason" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Leads by customer" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Tên" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Giai đoạn" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Các bước tiếp theo" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Các bước tiếp theo" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Opportunities by customer" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Total contract value" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Expected close date" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Outgoing calls" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Outgoing calls" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Xác suất dự đoán" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="The score indicates the probability of converting the Lead into an associated Opportunity. The value is calculated with the ML model" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Nạp vào" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Hợp đồng mới" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Products" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Nhập dữ liệu" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Note the products that can be offered to the customer" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Bán hàng" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Các khách hàng tiềm năng giống nhau" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Tên" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Giai đoạn" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Stage history" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Xuất ra Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Giai đoạn" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Làm mới" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Tìm kiếm" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Các hành động" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Mốc thời gian" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Mốc thời gian" />
+		</Items>
+	</Group>
+</Resources>

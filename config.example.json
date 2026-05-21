@@ -1,0 +1,6 @@
+{
+    "creatio-instance": {
+        "path": "creatio_instance_path",
+        "package": "UsrPackageName"
+    }
+}

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="إضافة جديد" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="إضافة جديد" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="إضافة جديد" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="القيمة المحتملة" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="أدخل الإيرادات المحتملة التي يمكن أن يحققها هذا العميل المحتمل" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="وصف احتياجات عمل العميل" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="صف سبب فقدان العميل المحتمل" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="تم إنشاؤه على" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="إنشاء بريد إلكتروني" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="إنشاء مهمة" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="تاريخ الإغلاق المتوقع" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="أدخل تاريخ الإغلاق المتوقع لعملية البيع" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="رسائل البريد الإلكتروني المرسلة" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="رسائل البريد الإلكتروني المرسلة" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="أرشيف" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Probability" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="سبب الفقدان" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="العملاء المحتملين حسب الزبون" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="الاسم" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="مرحلة" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="الخطوات التالية" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="الخطوات التالية" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="الفرص حسب الزبون" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="إجمالي قيمة العقد" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="تاريخ الإغلاق المتوقع" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="تخطيط الفرص" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="المكالمات الصادرة" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="المكالمات الصادرة" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="الاحتمال المتوقع" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="تشير النتيجة إلى احتمال تحويل العميل المحتمل إلى فرصة مقترنة. يتم حساب القيمة مع نموذج التعلم الآلي" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="معالجة" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="جديد" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="منتجات" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="استيراد البيانات" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="لاحظ المنتجات التي يمكن تقديمها إلى العميل" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="مبيعات" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="إرشادات متشابهة" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="الاسم" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="مرحلة" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="سجل المرحلة" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="تصدير إلى إكسل" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="مرحلة" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="تحديث" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="بحث" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="الإجراءات" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="الجدول الزمني" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="الجدول الزمني" />
+		</Items>
+	</Group>
+</Resources>

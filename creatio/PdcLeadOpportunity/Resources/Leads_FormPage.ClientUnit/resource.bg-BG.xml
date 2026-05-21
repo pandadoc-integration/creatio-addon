@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="bg-BG">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Potential value" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Enter the potential revenue that this lead could bring" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Describe the customer's business need" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Describe the reason why the lead was lost" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Created on" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Create an email" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Create a task" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Expected close date" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Enter the expected closing date of the sale" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Emails sent" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Emails sent" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="History" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Probability" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Loss reason" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Leads by customer" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Name" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Stage" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Opportunities by customer" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Total contract value" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Expected close date" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Outgoing calls" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Outgoing calls" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Predictive probability" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="The score indicates the probability of converting the Lead into an associated Opportunity. The value is calculated with the ML model" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Processing" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Products" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Note the products that can be offered to the customer" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Sales" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Similar leads" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Name" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Stage" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Stage history" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Stage" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.TabContainer_PandaDoc_caption.Value" Value="PandaDoc" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Timeline" />
+		</Items>
+	</Group>
+</Resources>

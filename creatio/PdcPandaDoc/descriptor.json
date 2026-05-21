@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "abe875a5-443b-4acc-a61b-91e4cf06ed63",
+    "Name": "PdcPandaDoc",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1763298743000)\/",
+    "Maintainer": "PandaDoc",
+    "ProjectPath": "Files/PdcPandaDoc.csproj",
+    "DependsOn": [
+      {
+        "UId": "71ac8fee-9abc-021a-2cd0-ead17fe5d9f9",
+        "PackageVersion": "7.8.0",
+        "Name": "CSP",
+        "Type": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/PdcCustomer360/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/PdcCustomer360/Data/**" />
+		<Compile Remove="$(PkgPath)/PdcCustomer360/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/PdcCustomer360/Schemas\**" />
+		<Compile Remove="$(PkgPath)/PdcCustomer360/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcCustomer360/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcCustomer360/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcCustomer360/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcCustomer360/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/PdcCustomer360/Resources/**" />
+		<None Remove="$(PkgPath)/PdcCustomer360/Assemblies/**" />
+		<None Remove="$(PkgPath)/PdcCustomer360/Data/**" />
+		<None Remove="$(PkgPath)/PdcCustomer360/SqlScripts/**" />
+		<None Remove="$(PkgPath)/PdcCustomer360/Schemas/**" />
+		<None Remove="$(PkgPath)/PdcCustomer360/Resources/**" />
+  </ItemGroup>
+</Project>

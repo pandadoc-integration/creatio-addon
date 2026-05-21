@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Потенциальный доход" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Укажите потенциальный доход, который может принести этот лид" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Опишите бизнес потребности клиента" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Объяснить вероятность конверсии" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Опишите причину, по которой лид был утрачен" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Дата создания" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Создать email" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Создать задачу" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Ожидаемая дата закрытия" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Укажите предполагаемую дату закрытия продажи" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Отправлено писем" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Отправлено писем" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="История" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Вероятность" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Причина утраты" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Лиды по клиенту" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Название" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Стадия" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Следующие шаги" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Следующие шаги" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Продажи по клиенту" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Сумма контракта" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Дата закрытия" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Планирование продажи" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Исходящих звонков" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Исходящих звонков" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Предиктивная вероятность" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="Рейтинг показывает вероятность конвертации Лида в связанную с ним Продажу. Это значение рассчитывается с помощью модели машинного обучения" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Обработка" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Продукты" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Отметьте продукты, которые можно предложить клиенту" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Продажа" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Похожие лиды" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Название" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Стадия" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="История стадий" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Стадия" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Действия" />
+		</Items>
+	</Group>
+</Resources>

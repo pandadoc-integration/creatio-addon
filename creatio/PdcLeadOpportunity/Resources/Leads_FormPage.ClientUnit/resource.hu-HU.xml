@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="hu-HU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Új hozzáadása" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Potenciális érték" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Adja meg az érdeklődő által hozható potenciális bevételt" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Írja le az ügyfél üzleti igényét" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Explain probability score" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Írja le az érdeklődő elvesztésének okát" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Létrehozva" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="E-mail létrehozása" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Feladat létrehozása" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Várható zárási dátum" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Adja meg az értékesítés várható záró dátumát" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Elküldött e-mailek" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Elküldött e-mailek" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Előzmények" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Valószínűség" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Veszteség oka" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Érdeklődők ügyfél szerint" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Adatimportálás" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Név" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Állapot" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Következő lépések" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Következő lépések" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Lehetőségek ügyfél szerint" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Adatimportálás" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="A szerződés teljes értéke" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Várható zárási dátum" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Lehetőség tervezés" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Kimenő hívások" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Kimenő hívások" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Prediktív valószínűség" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="A pontszám jelzi annak valószínűségét, hogy az érdeklődőt társított lehetőséggé alakítják. Az értéket az ML modellel számítjuk ki" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Folyamatban" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Új" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Termékek" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Adatok importálása" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Vegye figyelembe az ügyfélnek kínált termékeket" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Értékesítés" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Hasonló érdeklődők" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Név" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Állapot" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Állapot történet" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Exportálás Excelbe" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Állapot" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Frissítés" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Keresés" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Műveletek" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Idővonal" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Idővonal" />
+		</Items>
+	</Group>
+</Resources>

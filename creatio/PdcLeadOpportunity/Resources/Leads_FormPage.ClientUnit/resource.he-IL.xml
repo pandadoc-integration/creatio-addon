@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="הוסף כחדש" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="ערך פוטנציאלי" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="הזן את ההכנסה הפוטנציאלית שהליד הזה יכול להביא" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="תאר את הצורך העסקי של הלקוח" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="הסבר ניקוד ההסתברות" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="תאר את הסיבה לכך שהליד אבד" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="נוצר בתאריך" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="צור דוא&quot;ל" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="צור משימה" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="תאריך סגירה צפוי" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="הזן את תאריך הסגירה הצפוי של המכירה" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="דוא&quot;ל נשלח" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="דוא&quot;ל נשלח" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="היסטוריה" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="היסתברות" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="סיבת הפסד" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="לידים לפי לקוח" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="שם" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="שלב" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="צעדים הבאים" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="צעדים הבאים" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="הזדמנויות לפי לקוח" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="שווי כולל של החוזה" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="תאריך סגירה צפוי" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="תכנון הזדמנויות" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="שיחות יוצאות" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="שיחות יוצאות" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="הסתברות חזויה" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="הסקור מצביע על ההסתברות להמיר את הליד להזדמנות מקושרת. הערך מחושב באמצעות מודל ML" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="שיחה" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="חדש" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="מוצרים" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="יבוא נתונים" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="שים לב למוצרים שניתן להציע ללקוח" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="מכירות" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="הפניות דומות" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="שם" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="שלב" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="היסטורית שלבים" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="יצוא ל - Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="שלב" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="רענן" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="חפש" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="פעולות" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="ציר זמן" />
+		</Items>
+	</Group>
+</Resources>

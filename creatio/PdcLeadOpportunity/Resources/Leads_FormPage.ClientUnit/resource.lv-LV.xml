@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_0j4btzv_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.addRecord_o3h2431_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.addRecord_quqpon1_caption.Value" Value="Pievienot jaunu" />
+			<Item Name="LocalizableStrings.Budget_label.Value" Value="Potenciālā vērtība" />
+			<Item Name="LocalizableStrings.Budget_tooltip.Value" Value="Ievadiet potenciālos ieņēmumus, ko šis potenciālais klients varētu dot" />
+			<Item Name="LocalizableStrings.BusinessCase_placeholder.Value" Value="Aprakstiet klienta biznesa vajadzības" />
+			<Item Name="LocalizableStrings.Button_gobwzl9_caption.Value" Value="Izskaidrot varbūtības rezultātu" />
+			<Item Name="LocalizableStrings.ClosingDetails_placeholder.Value" Value="Aprakstiet iemeslu, kādēļ tika zaudēts potenciālais klients" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.CreatedOnMetric_title.Value" Value="Izveidots" />
+			<Item Name="LocalizableStrings.CreateEmailButton_caption.Value" Value="Izveidot e-pastu" />
+			<Item Name="LocalizableStrings.CreateTaskButton_caption.Value" Value="Izveidot uzdevumu" />
+			<Item Name="LocalizableStrings.DecisionDate_label.Value" Value="Paredzamais slēgšanas datums" />
+			<Item Name="LocalizableStrings.DecisionDate_tooltip.Value" Value="Ievadiet paredzamo pārdošanas slēgšanas datumu" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentMetric_title.Value" Value="Nosūtītie e-pasti" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.EmailsSentNewMetric_title.Value" Value="Nosūtītie e-pasti" />
+			<Item Name="LocalizableStrings.HistoryTab_caption.Value" Value="Vēsture" />
+			<Item Name="LocalizableStrings.Label_cufc9c2_caption.Value" Value="Varbūtība" />
+			<Item Name="LocalizableStrings.LeadDisqualifyReason_label.Value" Value="Zaudējuma iemesls" />
+			<Item Name="LocalizableStrings.LeadsByCustomerAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExpansionPanel_title.Value" Value="Potenciālie klienti pēc klienta" />
+			<Item Name="LocalizableStrings.LeadsByCustomerExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.LeadsByCustomerImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_LeadName.Value" Value="Nosaukums" />
+			<Item Name="LocalizableStrings.LeadsByCustomerListDS_QualifyStatus.Value" Value="Stadija" />
+			<Item Name="LocalizableStrings.LeadsByCustomerRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.LeadsByCustomerSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.NextStepsTabContainer_caption.Value" Value="Nākamie soļi" />
+			<Item Name="LocalizableStrings.NextStepsTabContainerHeaderLabel_caption.Value" Value="Nākamie soļi" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExpansionPanel_title.Value" Value="Iespējas pēc klienta" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_Amount.Value" Value="Līguma kopējā vērtība" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerListDS_DueDate.Value" Value="Paredzamais slēgšanas datums" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.OpportunitiesByCustomerSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.OpportunityPlanningExpansionPanel_title.Value" Value="Iespēju plānošana" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsMetric_title.Value" Value="Izejošais zvans" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.OutgoingCallsNewMetric_title.Value" Value="Izejošais zvans" />
+			<Item Name="LocalizableStrings.PredictiveProbabilityMetric_template.Value" Value="{0}%" />
+			<Item Name="LocalizableStrings.PredictiveScore_label.Value" Value="Prognozētā varbūtība" />
+			<Item Name="LocalizableStrings.PredictiveScore_tooltip.Value" Value="Punktu skaits norāda, cik liela ir iespēja, ka potenciālais klients tiks pārvērsts par saistītu Iespēju. Vērtību aprēķina, izmantojot ML modeli" />
+			<Item Name="LocalizableStrings.ProcessingTab_caption.Value" Value="Apstrāde" />
+			<Item Name="LocalizableStrings.ProductsAddButton_caption.Value" Value="Jauns" />
+			<Item Name="LocalizableStrings.ProductsExpansionPanel_title.Value" Value="Produkti" />
+			<Item Name="LocalizableStrings.ProductsExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.ProductsImportDataButton_caption.Value" Value="Datu imports" />
+			<Item Name="LocalizableStrings.ProductsRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.ProductsSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.ProductsSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.ProductSuggestions_placeholder.Value" Value="Ņemiet vērā produktus, kurus var piedāvāt klientam" />
+			<Item Name="LocalizableStrings.SalesTab_caption.Value" Value="Pārdošana" />
+			<Item Name="LocalizableStrings.SimilarLeadExpansionPanel_title.Value" Value="Līdzīgi potenciālie klienti" />
+			<Item Name="LocalizableStrings.SimilarLeadExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_LeadName.Value" Value="Nosaukums" />
+			<Item Name="LocalizableStrings.SimilarLeadListDS_QualifyStatus.Value" Value="Stadija" />
+			<Item Name="LocalizableStrings.SimilarLeadRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.SimilarLeadSearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.SimilarLeadSettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.StageHistoryExpansionPanel_title.Value" Value="Stadijas vēsture" />
+			<Item Name="LocalizableStrings.StageHistoryExportDataButton_caption.Value" Value="Eksportēt uz Excel" />
+			<Item Name="LocalizableStrings.StageHistoryListDS_QualifyStatus.Value" Value="Stadija" />
+			<Item Name="LocalizableStrings.StageHistoryRefreshButton_caption.Value" Value="Atjaunot" />
+			<Item Name="LocalizableStrings.StageHistorySearchFilter_placeholder.Value" Value="Meklēt" />
+			<Item Name="LocalizableStrings.StageHistorySettingsButton_caption.Value" Value="Darbības" />
+			<Item Name="LocalizableStrings.Timeline_caption.Value" Value="Laika skala" />
+			<Item Name="LocalizableStrings.Timeline_label.Value" Value="Laika skala" />
+		</Items>
+	</Group>
+</Resources>

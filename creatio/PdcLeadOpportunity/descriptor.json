@@ -1,0 +1,25 @@
+﻿{
+  "Descriptor": {
+    "UId": "78ccfa1a-32d7-b67b-f4a0-95e26e4885fb",
+    "Name": "PdcLeadOpportunity",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1763298783000)\/",
+    "Maintainer": "PandaDoc",
+    "ProjectPath": "Files/PdcLeadOpportunity.csproj",
+    "DependsOn": [
+      {
+        "UId": "51a0fc55-ce4f-a533-0340-b70a0c04b905",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLead",
+        "Type": 1
+      },
+      {
+        "UId": "7f7fd442-73f5-43b9-aae2-a3e87a53abb3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLeadOppMgmtApp",
+        "Type": 1
+      }
+    ]
+  }
+}

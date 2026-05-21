@@ -1,0 +1,30 @@
+<div class="wrapper" [style.width]="width" [style.height]="height">
+    <div #pandadocContainer id="pandadoc-container" class="pandadoc-container" [class.error-state]="hasError">
+        <div class="error-placeholder" *ngIf="hasError">
+            <div class="error-icon">⚠️</div>
+            <div class="error-message">{{ errorMessage }}</div>
+            <div class="error-details">Please check your configuration and try again.</div>
+        </div>
+
+        <!-- PandaDoc content will be rendered here -->
+    </div>
+</div>
+
+<div class="modal-backdrop" *ngIf="showModal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button class="close-button" (click)="closeModal()" title="Close">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+        <div class="wrapper">
+            <div id="pandadoc-modal-container" class="pandadoc-modal-container">
+                <!-- PandaDoc modal content will be rendered here -->
+            </div>
+        </div>
+    </div>
+</div>
